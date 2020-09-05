@@ -1,5 +1,5 @@
 ### Hi there 👋,
-Welcome to my page, here you'll find the various proojects that I work on. Currently there hasn't been any significant work done, however, soon!
+Welcome to my page, here you'll find the various projects that I work on. Currently there hasn't been any significant work done, however, soon!
 
 <!--
 **C3nsoreD/C3nsoreD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
