@@ -1,5 +1,16 @@
 ### Hi there 👋,
+
 Welcome to my page, here you'll find the various projects that I work on. Currently there hasn't been any significant work done, however, soon!
+
+I enjoy working on backend development mostly in Go
+
+![gopher dancing](./dancing-gopher.gif)
+
+And as alwasys
+
+- 🌱 I’m currently learning ...
+
+✌🏾
 
 <!--
 **C3nsoreD/C3nsoreD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
