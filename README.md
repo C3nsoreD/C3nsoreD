@@ -2,13 +2,11 @@
 
 Welcome to my page, here you'll find the various projects that I work on. Currently there hasn't been any significant work done, however, soon!
 
-I enjoy working on backend development mostly in Go
+I enjoy working on backend systems mostly in Go, and learning.
 
 ![gopher dancing](./dancing-gopher.gif)
 
-And as alwasys
-
-- 🌱 I’m currently learning ...
+My ideal state 🌱 learning ... not always the case but I try 🕊 
 
 ✌🏾
 
