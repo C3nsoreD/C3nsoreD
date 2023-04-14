@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-Welcome to my page, here you'll find the various projects that I work on. Currently there work being done @meSeven.
+Welcome to my page, here you'll find the various projects that I work on. Currently there work being done @mE7.
 
 I enjoy working on backend systems mostly in Go, and learning.
 
