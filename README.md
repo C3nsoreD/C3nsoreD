@@ -1,15 +1,17 @@
-### Hi there 👋,
+### Hi 👋🏾,
 
-Welcome to my page, here you'll find the various projects that I work on. Currently there work being done @mE7.
+Welcome to my page. You'll find many projects that I work/ed on. Currently a `SE` ingrid 🏢.
 
-I enjoy working on backend systems mostly in Go, and learning.
+🔭 I’m currently working on total global domination 😈🦹🏿‍♂️
+
+Mostly Go... for now!
 
 ![gopher dancing](./dancing-gopher.gif)
 
-My ideal state 🌱 learning ... not always the case but I try 🕊 
+My ideal state: 🌱 
+Trust your vision 👁️
 
 ✌🏾
-
 <!--
 **C3nsoreD/C3nsoreD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
