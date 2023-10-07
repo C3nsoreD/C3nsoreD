@@ -1,10 +1,10 @@
 ### Hi 👋🏾,
 
-Welcome to my page. You'll find many projects that I work/ed on. Currently a `SE` ingrid 🏢.
+Welcome, here you'll find various projects that I've work(ed) on. Currently a `SE` at Ingrid 🏢.
 
-🔭 I’m currently working on total global domination 😈🦹🏿‍♂️
+🔭 I’m working on total global domination 😈🦹🏿‍♂️
 
-Mostly Go... for now!
+Mostly Go...
 
 ![gopher dancing](./dancing-gopher.gif)
 
