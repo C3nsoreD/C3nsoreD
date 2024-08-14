@@ -1,28 +1,9 @@
 ### Hi 👋🏾,
 
-Welcome, here you'll find various projects that I've work(ed) on. Currently a `SE` at Ingrid 🏢.
+Welcome, here you'll find various projects that I've work(ed) on.
+Mostly Go, distributed systems soon... 👾
 
-🔭 I’m working on total global domination 😈🦹🏿‍♂️
-
-Mostly Go...
-
-![gopher dancing](./dancing-gopher.gif)
-
-My ideal state: 🌱 
+Current state: 🌱 
 Trust your vision 👁️
 
 ✌🏾
-<!--
-**C3nsoreD/C3nsoreD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
